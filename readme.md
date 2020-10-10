@@ -1,4 +1,3 @@
-## HALO
-ini file percobaan
+#HALO GIT
 
-### INI PERUBAHAN PERTAMA
+Selamat, kamu sudah berhasil memasukkan file baru di github
